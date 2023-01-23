@@ -23,7 +23,6 @@ be addressed through this experiment are as follows:<br />
 
 ## Executive Summary
 
-<img width="453" alt="Screen Shot 2023-01-23 at 3 21 55 PM" src="https://user-images.githubusercontent.com/63723023/214152838-66e0155b-a9d0-4234-a508-8a0d9699866a.png">
 
 1) Size of the circle, distance between circles are significant at 5% level
 2) Choice of hand does not affect the number of cycles at 5% significance level
