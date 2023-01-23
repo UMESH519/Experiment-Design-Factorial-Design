@@ -10,6 +10,8 @@ person is tasked to mark dots in these two circles alternatively for a time peri
 The response measured is the number of cycles (sets of dots) marked across both circles. This
 response is a measure of the level of hand-eye coordination.
 
+<img width="535" alt="Screen Shot 2023-01-23 at 3 12 51 PM" src="https://user-images.githubusercontent.com/63723023/214152177-7094e3fc-a2de-48e4-b1a7-f5953b98d690.png">
+
 The goal of the experiment is to investigate the effect of the hand type, size of the circle, and
 the distance between the circles on the response. The aim is also to determine if adjustments to
 either of these three factors would affect the response. Some of the research questions that can
